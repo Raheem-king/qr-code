@@ -10,7 +10,6 @@ body{
 	display: grid;
 	place-content: center;
 	min-height: 100vh;
-	//border: 2px solid red;
 	font-family: Outfit;
 	background-color: hsl(212, 45%, 89%);
 	
@@ -24,7 +23,6 @@ main{
 	row-gap: 1rem;
 	border-radius: 1rem;
 	background-color: hsl(0, 0%, 100%);
-	//border: 2px solid black;
 }
 
 img{
@@ -40,6 +38,7 @@ h1{
 
 p{
 	font-weight: 400;
+	color: hsl(220, 15%, 55%);
 }
 
 h1, p{
